@@ -12,6 +12,6 @@ services:
 
 networks:
   postgresServerNetwork:
-    # make sure the external network development is created in advance by start the postgres server docker-composer first
+    # make sure the external network development is created in advance by start the postgres server docker-compose first
     name: development
     external: true
