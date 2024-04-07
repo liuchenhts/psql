@@ -1,6 +1,6 @@
 # psql
-Docker composer for psql client
 
+Docker composer for psql client
 
 1. docker-compose run psql bash
 2. the above command will start a container for this one-off psql service in a bash shell
